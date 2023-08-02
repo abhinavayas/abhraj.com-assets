@@ -1,5 +1,5 @@
 [{
-  "title": "Social 1",
+  "title": "Chat App",
   "image": "https://abhinavayas.github.io/abhraj.com-assets/assets/projects/chat.png",
   "text": "This is a chat app inspired by whatsapp, greeted by a page which contain list of people who send us a message or we added them to our list. It sorts the people by the time at which they send there latest message. or to whom we send the message lates. It has a feature like whatsapp by which it shows if we have a unread message from a user by showing a badge after there name. It uses google to sign in and create account and firebase as backend to store data.",
   "languages": "React, Redux, Tailwind CSS & Material UI has been used in developing it.",
@@ -7,20 +7,19 @@
   "liveLink": "https://abhinavayas.github.io/react-chat-app/"
 },
 {
-  "title": "Social 1",
-  "image": "https://abhinavayas.github.io/abhraj.com-assets/assets/projects/chat.png",
-  "text": "This is a chat app inspired by whatsapp, greeted by a page which contain list of people who send us a message or we added them to our list. It sorts the people by the time at which they send there latest message. or to whom we send the message lates. It has a feature like whatsapp by which it shows if we have a unread message from a user by showing a badge after there name. It uses google to sign in and create account and firebase as backend to store data.",
-  "languages": "React, Redux, Tailwind CSS & Material UI has been used in developing it.",
-  "githubLink": "https://github.com/abhinavayas/react-chat-app",
-  "liveLink": "https://abhinavayas.github.io/react-chat-app/"
+  "title": "Social Media",
+  "image": "https://abhinavayas.github.io/abhraj.com-assets/assets/projects/social_media.png",
+  "text": "Inspired by Instagram. A social media with features to upload post in form of photos with text caption, Create accounts and sign in it. and adding comments with real time updates.",
+  "languages": "It uses React & Firebase as backend.",
+  "githubLink": "https://github.com/abhinavayas/social_media",
+  "liveLink": "https://abhinavayas.github.io/social_media/"
 },
 {
-  "title": "Social 1",
-  "image": "https://abhinavayas.github.io/abhraj.com-assets/assets/projects/chat.png",
-  "text": "This is a chat app inspired by whatsapp, greeted by a page which contain list of people who send us a message or we added them to our list. It sorts the people by the time at which they send there latest message. or to whom we send the message lates. It has a feature like whatsapp by which it shows if we have a unread message from a user by showing a badge after there name. It uses google to sign in and create account and firebase as backend to store data.",
-  "languages": "React, Redux, Tailwind CSS & Material UI has been used in developing it.",
-  "githubLink": "https://github.com/abhinavayas/react-chat-app",
-  "liveLink": "https://abhinavayas.github.io/react-chat-app/"
+  "title": "Ayas Locker",
+  "image": "https://abhinavayas.github.io/abhraj.com-assets/assets/projects/ayaslocker.png",
+  "text": "Ayas Locker password protects our data using AES encryption, instead of traditional practises it uses the concept of locks, we encrypt our file and a lock is created i.e a custom .ayaslocker file saved on the disk, password protected by your password . It can then be opened directly by double clicking the file as this software registers itself as a default program to open the .ayaslocker file extensions. All the locks created and saved in the software default directory is shown in the software itself and also can be directly opened from there by entering the corrrect password. It also has a feature to check updated from the server",
+  "languages": "Java has been used in developing it.",
+  "liveLink": "https://ayaslocker.blogspot.com/2021/09/ayas-locker-downloads_29.html"
 }
 ]
 
