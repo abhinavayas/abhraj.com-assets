@@ -7,14 +7,6 @@
   "liveLink": "https://abhinavayas.github.io/react-chat-app/"
 },
 {
-  "title": "Social Media",
-  "image": "https://abhinavayas.github.io/abhraj.com-assets/assets/projects/social_media.png",
-  "text": "Inspired by Instagram. A social media with features to upload post in form of photos with text caption, Create accounts and sign in it. and adding comments with real time updates.",
-  "languages": "It uses React & Firebase as backend.",
-  "githubLink": "https://github.com/abhinavayas/social_media",
-  "liveLink": "https://abhinavayas.github.io/social_media/"
-},
-{
   "title": "Ayas Locker",
   "image": "https://abhinavayas.github.io/abhraj.com-assets/assets/projects/ayaslocker.png",
   "text": "Ayas Locker password protects our data using AES encryption, instead of traditional practises it uses the concept of locks, we encrypt our file and a lock is created i.e a custom .ayaslocker file saved on the disk, password protected by your password . It can then be opened directly by double clicking the file as this software registers itself as a default program to open the .ayaslocker file extensions. All the locks created and saved in the software default directory is shown in the software itself and also can be directly opened from there by entering the corrrect password. It also has a feature to check updated from the server",
